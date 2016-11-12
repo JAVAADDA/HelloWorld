@@ -1,0 +1,10 @@
+ Volume in drive E is PERSONAL
+ Volume Serial Number is 5CE7-1A71
+
+ Directory of E:\javaadda\projects
+
+11/12/2016  04:39 PM    <DIR>          .
+11/12/2016  04:39 PM    <DIR>          ..
+11/12/2016  04:39 PM                 0 javaadda.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  79,288,889,344 bytes free
